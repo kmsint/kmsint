@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://vk.com/kmsrus">
@@ -26,7 +26,7 @@
 
 <br />
 
-Hello! My name is Mikhail! I'm the host of a <a href="https://anchor.fm/kmsrus">Machine Learning Podcast</a>. This is a podcast about machine learning in Russian.
+My name is Mikhail! I'm the host of a <a href="https://anchor.fm/kmsrus">Machine Learning Podcast</a>. This is a podcast about machine learning in Russian.
 
 <br />
   
