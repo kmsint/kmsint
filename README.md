@@ -26,7 +26,7 @@
 
 <br />
 
-My name is Mikhail! I'm the host of a <a href="https://anchor.fm/kmsrus">Machine Learning Podcast</a>. This is a podcast about machine learning in Russian.
+My name is Mikhail! I'm the host of a <a href="https://mlpodcast.mave.digital">Machine Learning Podcast</a>. This is a podcast about machine learning in Russian.
 
 <br />
   
